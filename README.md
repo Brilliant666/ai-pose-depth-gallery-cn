@@ -6,7 +6,7 @@
 
 [中文](#中文) · [日本語](#日本語) · [English](#english)
 
-> **同系列** · [人像集](https://github.com/Brilliant666/ai-portrait-gallery-cn) · [姿势集](https://github.com/Brilliant666/ai-pose-gallery-cn) · [服装集](https://github.com/Brilliant666/ai-costume-gallery-cn) · [**四站合一仓库 →**](https://github.com/Brilliant666/ai-image-gallery)
+> **同系列** · [在线浏览 photoai.life](https://photoai.life/) · [人像集](https://github.com/Brilliant666/ai-portrait-gallery-cn) · [姿势集](https://github.com/Brilliant666/ai-pose-gallery-cn) · [服装集](https://github.com/Brilliant666/ai-costume-gallery-cn) · [**四站合一仓库 →**](https://github.com/Brilliant666/ai-image-gallery)
 
 > ⚠️ **授权提示**：本站素材**不是 CC0**。原站允许商用与编辑，但
 > **禁止再分发图片数据，并明确禁止批量下载与自动化抓取**。
